@@ -162,7 +162,6 @@ const HomeScreen = ({ navigation }) => {
 }
 )}
 
-<Text>Noor e hira is a monkey</Text>
 </View>
            ) : null}
  {shouldShow2 ? (
