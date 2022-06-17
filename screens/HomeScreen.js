@@ -149,7 +149,7 @@ const HomeScreen = ({ navigation }) => {
 
 {data.map((item, index) => {
   return (
-    <View style={{marginBottom:0,  marginTop: 16,}}>
+    <View style={{marginBottom:0,  marginTop: 16,}} key={index}>
 
     <AvailableCard
       key={index}
