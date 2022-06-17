@@ -142,7 +142,7 @@ function feedback(){
       fontSize: 15,
       marginTop: 10,
       marginLeft: 9,
-   }}>2. How's quality of food?</Text>
+   }}>4. How's quality of food?</Text>
      <View style={{flexDirection:'row',marginLeft: 9,alignItems:'center'}}>
       <RadioButton
         value="first"
